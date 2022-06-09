@@ -1,0 +1,9 @@
+,imageNo,predictedText,originalText,cer,wer
+0,13.png,"INGREDIENTS: Potato, Edible Vegetable Oil (Palmolein
+Oil, Rice Bran Oi}, Sugar, lodised Salt, Milk Products
+(Mik Solids, Cheese Powder) (1.4%), “Spices &
+Condiments (Onion Powder, Parsley Powder,
+Pepper Powder}, Edible Starch.","INGREDIENTS: Potato, Edible Vegetable Oil(Palmolein Oil, Rice, Bran Oil), Sugar, Iodised Salt, Milk Products Milk Soilds, Cheese Powder)(1.4%), ~Spices & Condiments(Onion Powder, Parsely Powder, Pepper Powder), Edible Starch",9.82,64.29
+1,2.png,"INGREDIENTS: Putfed Rice (98%), Sugar, Glucose Syrup (From Wheat), Salt, Barley Malt Extract, Emulsifier (471) Vitamins [Vitamin E, Niacin, Thiamin, Riboflavin, Vitamin 7 Folate]. CONTAINS WHEAT AND BARLEY. Gea Lanta
+MAY BE PRESENT: PEANUTS, SOY, mK TREE NUTS, OTHER","INGREDIENTS: Puffed Rice (98%), Sugar, Glucose syrup (From Wheat), Salt, Barley Malt Extract, Emulsifier (471) Vitamins[Vitamin E, Niacin, Thiamin, Riboflavin, Vitamin B, Floate]. CONTAINS WHEAT AND BARLEY. MAY BE PRESENT: PEANUTS, SOY, MILK, TREE NUTS, OTHER GLUTEN CEREALS AND SESAME.",16.78,32.5
+2,test1.png,Ingredients Tomatoes 35% Water Tomato Paste Onion Liquid Glucose Jalapeno Sugar Capsicum lodized Salt Garlic - Paste Acidity Regulators INS 260 INS330 Spices and Condiments Thickeners INS 415 Lemon Powder ,Ingredients Tomatoes 35% Water Tomato Paste Onion Liquid Glucose Jalapeno Sugar Capsicum Iodized Salt Garlic Paste Acidity Regulators INS 260 INS330 Spices and Condiments Thickeners INS 415 Lemon Powder,1.98,6.9
